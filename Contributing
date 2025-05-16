@@ -1,0 +1,13 @@
+We welcome contributions from the community! To contribute:
+Fork the repository.
+
+Create a new branch (git checkout -b feature/your-feature).
+
+Make your changes and commit (git commit -m "Add your feature").
+
+Push to your branch (git push origin feature/your-feature).
+
+Open a Pull Request.
+
+Please read our Contributing Guidelines (CONTRIBUTING.md) for more details.
+
